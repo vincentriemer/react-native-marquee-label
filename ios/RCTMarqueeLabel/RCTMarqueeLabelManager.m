@@ -5,10 +5,10 @@
 //  Created by fangyunjiang on 15/11/4.
 //  Copyright (c) 2015年 remobile. All rights reserved.
 //
-#import "RCTViewManager.h"
-#import "RCTBridge.h"
-#import "RCTEventDispatcher.h"
-#import "UIView+React.h"
+#import <React/RCTViewManager.h>
+#import <React/RCTBridge.h>
+#import <React/RCTEventDispatcher.h>
+#import <React/UIView+React.h>
 
 #import "MarqueeLabel.h"
 
